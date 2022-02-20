@@ -1,0 +1,24 @@
+.example-class
+{
+    max-width:400px;
+    font-size:70px;
+    font-family:Lucida Fax;
+}
+
+p
+{
+    font-size:25px;
+    font-weight:bold;
+}
+mat-card-title
+{
+    font-size:30px;
+}
+mat-card-subtitle
+{
+    font-size:20px;
+}
+mat-tab
+{
+    font-size:40px;
+}
